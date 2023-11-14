@@ -1,2 +1,2 @@
 # py-namer
-file renamer using python to rename and order my notes
+File renamer using python to rename and order my notes
